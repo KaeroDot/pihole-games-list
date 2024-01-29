@@ -540,6 +540,7 @@
 0.0.0.0	pl.socialclub.rockstargames.com
 0.0.0.0	play.euw.leagueoflegends.com
 0.0.0.0	play.na.leagueoflegends.com
+0.0.0.0	play.runescape.com
 0.0.0.0	playerauctions.com
 0.0.0.0	playhearthstone.com
 0.0.0.0	playinjector.com
