@@ -1,3 +1,28 @@
+# game portals mostly used in Czech Republic:
+0.0.0.0 1001hry.cz
+0.0.0.0 besthry.cz
+0.0.0.0 boardgamearena.com
+0.0.0.0 crazygames.cz
+0.0.0.0 decko.ceskatelevize.cz/hry
+0.0.0.0 game-game.cz
+0.0.0.0 hry-online.cz
+0.0.0.0 pacogames.cz
+0.0.0.0 poki.com
+0.0.0.0 retrogames.cz
+0.0.0.0 superhry.cz
+0.0.0.0 zahraj.cz
+0.0.0.0 www.cartoonnetwork.cz 
+0.0.0.0 www.duelovky.cz
+0.0.0.0 www.freegame.cz
+0.0.0.0 www.gametwist.com 
+0.0.0.0 www.herna.biz
+0.0.0.0 www.hrajzdarma.cz
+0.0.0.0 www.playhry.c
+0.0.0.0 www.key4you.cz 
+0.0.0.0 www.sazka.cz 
+0.0.0.0 www.webgames.cz
+
+# Original list:
 0.0.0.0 users.roblox.com
 0.0.0.0 www.xboxab.com
 0.0.0.0 play.google.com
